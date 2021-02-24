@@ -1,1 +1,1 @@
-![Home Page](https://github.com/deningsr/Ignite-games-library/blob/main/src/img/homepage.png?raw=true "Waves")
+![Home Page](https://github.com/deningsr/Music-Player/blob/main/src/img/screenshot.png?raw=true "Waves")
